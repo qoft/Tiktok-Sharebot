@@ -10,6 +10,7 @@ some skidded tiktok sharebot
   sudo apt update
   sudo apt install golang-go
   git clone https://github.com/Qoft/Sharebot
+  cd Sharebot
   go run .
 ```
 
