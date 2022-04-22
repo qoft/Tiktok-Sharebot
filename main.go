@@ -65,7 +65,7 @@ func main() {
 
 	fmt.Print("[>] Threads: ")
 	fmt.Scanln(&threads)
-
+	fmt.Print("VIDEO ID IS https://www.tiktok.com/@USERNAME/video/<THIS NUMBER RIGHT HERE> \n")
 	fmt.Print("[>] Video ID: ")
 	fmt.Scanln(&itemID)
 
