@@ -5,6 +5,7 @@ import (
 	"math/rand"
 	"time"
 
+	tm "github.com/buger/goterm"
 	randomUserAgent "github.com/corpix/uarand"
 	"github.com/valyala/fasthttp"
 )
@@ -57,6 +58,7 @@ func statusPrinter() {
 
 func main() {
 	rand.Seed(time.Now().Unix())
+	tm.Clear()
 
 	fmt.Print("[+] github.com/qoft\n\n")
 
