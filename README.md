@@ -1,5 +1,5 @@
-# Sharebot
-some skidded tiktok sharebot
+# Tiktok Share Bot
+some fun i had while making this, partically skidded 
 
 
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Qoft/Sharebot)
