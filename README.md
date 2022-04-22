@@ -29,7 +29,7 @@ go run .
 ```
 
 ### Others
-idk just install go and run what is sh own below in terminal
+idk just install go and run what is shown below in terminal
 ```bash
 git clone https://github.com/Qoft/Tiktok-Sharebot
 go run .
