@@ -51,7 +51,6 @@ func rpmCounter() {
 
 func statusPrinter() {
 	for {
-		time.Sleep(time.Millisecond * 500)
 		fmt.Printf("[+] Sent: %v | Requests per minute: %v | Errors: %v\r", sent, rpm, errors)
 	}
 }
