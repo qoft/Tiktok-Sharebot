@@ -1,2 +1,2 @@
-echo "RUNNING TIKTOK SHAREBOT"
+echo "Setting up sharebot"
 go run .

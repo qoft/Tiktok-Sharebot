@@ -1,0 +1,2 @@
+language = "go"
+run = "bash repl.sh"
