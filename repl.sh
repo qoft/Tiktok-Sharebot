@@ -1,0 +1,2 @@
+echo "RUNNING TIKTOK SHAREBOT"
+go run .
