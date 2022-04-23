@@ -8,6 +8,9 @@ some fun i had while making this, partically skidded
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Qoft/Tiktok-Sharebot)
 
 
+## Warning
+### 100-1000 threads recommended, if you put any threads over the recommendation, no support will be given
+
 ## Installation
 
 
