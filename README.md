@@ -19,7 +19,7 @@ some fun i had while making this, partically skidded
 sudo apt update
 sudo apt install golang-go
 git clone https://github.com/Qoft/Tiktok-Sharebot
-cd Sharebot
+cd Tiktok-Sharebot
 go run .
 ```
 
