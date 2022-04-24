@@ -17,7 +17,7 @@ var (
 	sent    int    = 0
 	rpm     int    = 0
 	itemID  string = "7089521368827432235"
-	threads int    = 2048
+	threads int    = 1000
 )
 
 func addShare(itemID string) {
