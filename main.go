@@ -13,9 +13,11 @@ import (
 var (
 	client fasthttp.Client
 
-	errors int = 0
-	sent   int = 0
-	rpm    int = 0
+	errors  int    = 0
+	sent    int    = 0
+	rpm     int    = 0
+	itemID  string = "7089521368827432235"
+	threads int    = 2048
 )
 
 func addShare(itemID string) {
@@ -61,15 +63,6 @@ func main() {
 	tm.Clear()
 
 	fmt.Print("[+] github.com/qoft\n\n")
-
-	var threads int
-	var itemID string
-
-	fmt.Print("[>] Threads: ")
-	fmt.Scanln(&threads)
-	fmt.Print("VIDEO ID IS https://www.tiktok.com/@USERNAME/video/<THIS NUMBER RIGHT HERE> \n")
-	fmt.Print("[>] Video ID: ")
-	fmt.Scanln(&itemID)
 
 	fmt.Print("\n\n")
 
