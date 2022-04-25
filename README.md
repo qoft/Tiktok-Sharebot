@@ -17,7 +17,7 @@ some fun i had while making this, partically skidded
 ### Ubuntu
 ```bash
 sudo apt update
-sudo apt install golang-go
+sudo apt install golang-go -y
 git clone https://github.com/Qoft/Tiktok-Sharebot
 cd Tiktok-Sharebot
 go run .
