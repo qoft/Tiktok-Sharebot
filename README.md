@@ -1,3 +1,6 @@
+# SEMI-PATCHED, STILL WORKS BUT SLOW
+
+
 # Tiktok Share Bot
 some fun i had while making this, partically skidded 
 
