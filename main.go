@@ -16,7 +16,7 @@ var (
 	errors  int    = 0
 	sent    int    = 0
 	rpm     int    = 0
-	itemID  string = "7089521368827432235"
+	itemID  string = "7077018440971685162"
 	threads int    = 1000
 )
 
